@@ -1,18 +1,4 @@
 
-
-32 of 1,118
-parking ticket simulator
-Inbox
-x
-
-Chariane Nkengfack
-Attachments
-Jan 5, 2019, 12:37 AM (5 days ago)
-to NiralP
-
-heres the files
-9 Attachments
-
 #pragma once
 //Specification file for the ParkedCar class
 #ifndef PARKED_CAR_H
